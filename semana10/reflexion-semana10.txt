@@ -1,0 +1,9 @@
+Las metodologías ágiles permiten organizar mejor una comunidad porque facilitan el trabajo 
+por etapas, priorizando lo más importante y adaptándose a los cambios. Esto es clave en procesos 
+de participación ciudadana, donde las necesidades pueden evolucionar constantemente. Además, 
+la automatización con herramientas como n8n ayuda a reducir tareas repetitivas, 
+como el envío de notificaciones o el registro de información, lo que ahorra tiempo y evita errores. 
+Por otro lado, canales como Telegram permiten una comunicación rápida y directa entre los miembros 
+de la comunidad. Esto mejora la difusión de información y la respuesta ante situaciones importantes. 
+En conjunto, estas herramientas fortalecen la organización, aumentan la participación 
+y hacen que los procesos sean más transparentes y eficientes. Así, se logra una comunidad más conectada y activa.

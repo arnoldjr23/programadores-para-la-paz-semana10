@@ -1,0 +1,4 @@
+Como ciudadano, quiero poder reportar irregularidades en mi comunidad a través de una plataforma digital, para contribuir a la transparencia y mejorar la gestión pública.
+Como líder comunitario, quiero visualizar los reportes realizados por los ciudadanos en un mapa interactivo, para identificar zonas con mayores problemas y priorizar acciones.
+Como funcionario público, quiero recibir notificaciones de los reportes verificados, para dar respuesta oportuna a las problemáticas de la comunidad.
+Como usuario registrado, quiero hacer seguimiento al estado de mi reporte, para saber si fue atendido o está en proceso.

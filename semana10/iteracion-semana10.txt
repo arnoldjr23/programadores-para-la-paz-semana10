@@ -1,0 +1,11 @@
+¿Qué 2 tareas del backlog harías primero?
+Primero desarrollaría la funcionalidad para registrar reportes de los ciudadanos, ya que es la base del sistema.
+En segundo lugar, implementaría el sistema de visualización o listado de reportes, para poder ver la información que se está recopilando.
+
+¿Por qué son las más importantes?
+Estas tareas son esenciales porque sin el registro de reportes no existirían datos en la plataforma, y sin la visualización
+no se podrían analizar ni utilizar. Son el núcleo de la solución, ya que permiten tanto la participación ciudadana como la toma de decisiones basada en información.
+
+¿Qué significa para ti que una tarea esté “terminada”?
+Para mí, una tarea está terminada cuando cumple su propósito, funciona correctamente y ha sido validada. 
+No solo es escribir código, sino asegurar que realmente aporta valor y puede usarse sin problemas.
